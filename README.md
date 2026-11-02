@@ -67,7 +67,7 @@ The following questions were investigated during the practical exercise.
 
 ### 1. What is the IP address of your own laptop?
 
-**Answer:** [10.46.23.63]
+**Answer:** 10.46.23.63
 
 **Explanation:**
 
@@ -79,7 +79,7 @@ I identified this address by examining the source IP address of packets generate
 
 ### 2. What is the IP address of your DNS server?
 
-**Answer:** [Insert Your DNS Server IP Address]
+**Answer:** 10.46.23.68
 
 **Explanation:**
 
@@ -93,7 +93,7 @@ I identified the DNS server by examining the destination IP address of the DNS q
 
 ### 3. What is the IP address of the website networkwalks.com?
 
-**Answer:** [Insert Website IP Address]
+**Answer:** 192.232.216.135
 
 **Explanation:**
 
@@ -119,8 +119,7 @@ In this practical exercise, I examined the TLS Client Hello packet and identifie
 
 ### 5. Which server port is used for the secure connection?
 
-**Answer:** [Insert Server Port]
-
+**Answer:** 443
 **Explanation:**
 
 A port number identifies a particular service or application running on a server.
@@ -133,7 +132,7 @@ I identified the server port by examining the destination port in the TCP commun
 
 ### 6. Which TLS version does the website use?
 
-**Answer:** [Insert TLS Version]
+**Answer:** TLSv1.3
 
 **Explanation:**
 
