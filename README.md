@@ -67,7 +67,7 @@ The following questions were investigated during the practical exercise.
 
 ### 1. What is the IP address of your own laptop?
 
-**Answer:** [Insert Your Laptop IP Address]
+**Answer:** [10.46.23.63]
 
 **Explanation:**
 
